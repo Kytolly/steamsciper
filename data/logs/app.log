@@ -1,0 +1,2 @@
+2024-07-14 11:47:37,179 - my_logger - ERROR - src/scraper/parser.py: Failed to get text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=1
+2024-07-14 11:47:39,391 - my_logger - ERROR - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
