@@ -1,2 +1,16 @@
-2024-07-14 11:47:37,179 - my_logger - ERROR - src/scraper/parser.py: Failed to get text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=1
-2024-07-14 11:47:39,391 - my_logger - ERROR - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-07-14 13:04:39,113 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=1
+2024-07-14 13:12:07,199 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=1
+2024-07-14 13:33:30,375 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:33:49,363 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:34:53,216 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:36:00,626 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:36:19,575 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:38:22,767 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 13:59:42,564 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:00:54,077 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:09:47,948 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:14:21,961 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:15:08,687 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:15:43,111 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 14:16:39,370 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
+2024-07-14 22:08:09,469 - my_logger - INFO - src/scraper/parser.py: Getting text from url: https://store.steampowered.com/search/?ignore_preferences=1&filter=topsellers&ndl=10
